@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/css" href="resources/css/paper.css"?>
 <article xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0">
 	<info>
-		<title><?oxy-placeholder content="Your paper title"?></title>
+		<title>George</title>
 		<author>
 			<personname><?oxy-placeholder content="Your name"?></personname>
 			<email><?oxy-placeholder content="Your email address"?></email>
